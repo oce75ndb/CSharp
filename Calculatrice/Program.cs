@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Bienvenue dans la calculatrice !");
 
-result = 0;
+decimal result = 0;
 
 while (true) {
 
