@@ -11,10 +11,10 @@ const int MAX = 100;
 Console.Write("Veuillez entrer votre prénom : ");
 string prenom = Console.ReadLine();
 
-Console.Write("Veuillez entrer un nombre entre {MIN} et {MAX}: ");
+Console.Write("Veuillez entrer un nombre entre {min} et {max} : ");
 string nb = Console.ReadLine();
 
-int.Parse(Console.WriteLine)
+int nb = int.Parse(Chaine);
 
 Console.WriteLine($"Hello {prenom}, bon retour parmis nous ! ");
 Console.WriteLine($"Votre nombre est {nb}.");
