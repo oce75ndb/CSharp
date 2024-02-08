@@ -1,0 +1,5 @@
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Calculatrice\obj\Debug\net8.0\Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Calculatrice\obj\Debug\net8.0\Calculatrice.AssemblyInfoInputs.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Calculatrice\obj\Debug\net8.0\Calculatrice.AssemblyInfo.cs
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Calculatrice\obj\Debug\net8.0\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Calculatrice\obj\Debug\net8.0\Calculatrice.sourcelink.json
