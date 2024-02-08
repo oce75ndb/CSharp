@@ -1,0 +1,14 @@
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\base\bin\Debug\net8.0\base.exe
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\base\bin\Debug\net8.0\base.deps.json
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\base\bin\Debug\net8.0\base.runtimeconfig.json
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\base\bin\Debug\net8.0\base.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\base\bin\Debug\net8.0\base.pdb
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\base\obj\Debug\net8.0\base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\base\obj\Debug\net8.0\base.AssemblyInfoInputs.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\base\obj\Debug\net8.0\base.AssemblyInfo.cs
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\base\obj\Debug\net8.0\base.csproj.CoreCompileInputs.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\base\obj\Debug\net8.0\base.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\base\obj\Debug\net8.0\refint\base.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\base\obj\Debug\net8.0\base.pdb
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\base\obj\Debug\net8.0\base.genruntimeconfig.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\base\obj\Debug\net8.0\ref\base.dll
