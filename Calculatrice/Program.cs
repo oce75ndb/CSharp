@@ -5,7 +5,11 @@ decimal result = 0;
 while (true) {
 
     Console.Write("Entrez un nombre : ");
-    decimal nb1 = Convert.ToDecimal(Console.ReadLine());
+    string saisie = Console.ReadLine();
+    if (saisie == "") {
+        break;
+    }
+    decimal nb1 = Convert.ToDecimal(saisie);
 
     Console.Write("Entrez un opérateur (+, -, *, /) : ");
     string op = Console.ReadLine();
