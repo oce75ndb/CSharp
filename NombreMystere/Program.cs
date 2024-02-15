@@ -18,12 +18,14 @@ int nb = int.Parse(chaine);
 
 Console.WriteLine($"Hello {prenom}, bon retour parmis nous ! ");
 
-if (nb == NOMBRE_MYSTERE) {
-    Console.WriteLine($"Bravo le nombre mystère est bien {NOMBRE_MYSTERE}.");
-} else if (nb > NOMBRE_MYSTERE) {
-    Console.WriteLine("Plus petit !");
-} else if (nb < NOMBRE_MYSTERE) {
-    Console.WriteLine("Plus grand !");
-} else {
-    Console.WriteLine("Raté !");
+while (nb != NOMBRE_MYSTERE) {
+
+    if (nb == NOMBRE_MYSTERE) {
+        Console.WriteLine($"Bravo le nombre mystère est bien {NOMBRE_MYSTERE}.");
+    }
+    if (nb > NOMBRE_MYSTERE) {
+        Console.WriteLine("Plus petit !");
+    } else (nb < NOMBRE_MYSTERE) {
+        Console.WriteLine("Plus grand !");
+    }
 }
