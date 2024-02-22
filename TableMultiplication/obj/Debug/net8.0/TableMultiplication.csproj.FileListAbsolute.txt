@@ -1,0 +1,15 @@
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\bin\Debug\net8.0\TableMultiplication.exe
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\bin\Debug\net8.0\TableMultiplication.deps.json
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\bin\Debug\net8.0\TableMultiplication.runtimeconfig.json
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\bin\Debug\net8.0\TableMultiplication.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\bin\Debug\net8.0\TableMultiplication.pdb
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\obj\Debug\net8.0\TableMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\obj\Debug\net8.0\TableMultiplication.AssemblyInfoInputs.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\obj\Debug\net8.0\TableMultiplication.AssemblyInfo.cs
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\obj\Debug\net8.0\TableMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\obj\Debug\net8.0\TableMultiplication.sourcelink.json
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\obj\Debug\net8.0\TableMultiplication.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\obj\Debug\net8.0\refint\TableMultiplication.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\obj\Debug\net8.0\TableMultiplication.pdb
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\obj\Debug\net8.0\TableMultiplication.genruntimeconfig.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\TableMultiplication\obj\Debug\net8.0\ref\TableMultiplication.dll
