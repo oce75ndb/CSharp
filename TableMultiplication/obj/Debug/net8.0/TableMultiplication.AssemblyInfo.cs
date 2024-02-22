@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TableMultiplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9169a883ff824b61193bae43ee0719c22451bc9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2525e813e77b031488debc560de6458cadc46838")]
 [assembly: System.Reflection.AssemblyProductAttribute("TableMultiplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TableMultiplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
