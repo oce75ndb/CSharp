@@ -9,9 +9,7 @@ const char COIN_BAS_GAUCHE = '\u255A';
 const int NB_COLONNES = 25;*/
 
 Rectangles(2, 20);
-Rectangles(3, 10);
-Rectangles(4, 6);
-Rectangles(9, 12);
+
 
 void Rectangles(int ligne, int colonne) {
     //Ligne 1
@@ -25,9 +23,9 @@ void Rectangles(int ligne, int colonne) {
     //Lignes Intermediaires
     for (int i=0; i<ligne; i++) {
         Console.Write(LIGNE_VERTICALE);
-        for (int j=0; j<colonne;j++) {
-        Console.Write(" ");
-        }
+       // for (int j=0; j<colonne;j++) {
+        Console.Write("   Je suis océane   ");
+        //}
         Console.WriteLine(LIGNE_VERTICALE);
     }
 
@@ -38,3 +36,4 @@ void Rectangles(int ligne, int colonne) {
     }
     Console.WriteLine(COIN_BAS_DROITE);
 }
+
