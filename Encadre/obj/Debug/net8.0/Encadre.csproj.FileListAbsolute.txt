@@ -1,0 +1,15 @@
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\bin\Debug\net8.0\Encadre.exe
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\bin\Debug\net8.0\Encadre.deps.json
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\bin\Debug\net8.0\Encadre.runtimeconfig.json
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\bin\Debug\net8.0\Encadre.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\bin\Debug\net8.0\Encadre.pdb
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\obj\Debug\net8.0\Encadre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\obj\Debug\net8.0\Encadre.AssemblyInfoInputs.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\obj\Debug\net8.0\Encadre.AssemblyInfo.cs
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\obj\Debug\net8.0\Encadre.csproj.CoreCompileInputs.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\obj\Debug\net8.0\Encadre.sourcelink.json
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\obj\Debug\net8.0\Encadre.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\obj\Debug\net8.0\refint\Encadre.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\obj\Debug\net8.0\Encadre.pdb
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\obj\Debug\net8.0\Encadre.genruntimeconfig.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Encadre\obj\Debug\net8.0\ref\Encadre.dll
