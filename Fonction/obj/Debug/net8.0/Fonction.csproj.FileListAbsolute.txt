@@ -1,0 +1,15 @@
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\obj\Debug\net8.0\Fonction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\obj\Debug\net8.0\Fonction.AssemblyInfoInputs.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\obj\Debug\net8.0\Fonction.AssemblyInfo.cs
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\obj\Debug\net8.0\Fonction.csproj.CoreCompileInputs.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\obj\Debug\net8.0\Fonction.sourcelink.json
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\bin\Debug\net8.0\Fonction.exe
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\bin\Debug\net8.0\Fonction.deps.json
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\bin\Debug\net8.0\Fonction.runtimeconfig.json
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\bin\Debug\net8.0\Fonction.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\bin\Debug\net8.0\Fonction.pdb
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\obj\Debug\net8.0\Fonction.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\obj\Debug\net8.0\refint\Fonction.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\obj\Debug\net8.0\Fonction.pdb
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\obj\Debug\net8.0\Fonction.genruntimeconfig.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\Fonction\obj\Debug\net8.0\ref\Fonction.dll
