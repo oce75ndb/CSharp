@@ -43,7 +43,7 @@ namespace exopoo
             if (!_actif)
             {
                 throw new InvalidOperationException("Le compte n'est pas actif.");
-            }
+            } 
 
             _solde += montant;
         }
