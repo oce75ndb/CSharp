@@ -81,5 +81,11 @@ namespace exopoo
         {
             Console.WriteLine(Nom + " " + Prenom + " - Solde: " + Solde + " - Actif: " + Actif);
         }
+
+        // Méthode ToString
+        public override string ToString()
+        {
+            return base.ToString() + " - Nom: " + Nom + " - Prenom: " + Prenom + " - Solde: " + Solde + " - Actif: " + Actif;
+        }
     }
 }

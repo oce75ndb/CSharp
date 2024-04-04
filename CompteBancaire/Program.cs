@@ -7,7 +7,8 @@ namespace exopoo
         static void Main(string[] args)
         {
             CompteBancaire compte = new CompteBancaire("Dupont", "Marie", 500, true);
-
+            Console.WriteLine(compte.ToString());
+            
             // Créditer compte
             compte.Crediter(3200);
 
