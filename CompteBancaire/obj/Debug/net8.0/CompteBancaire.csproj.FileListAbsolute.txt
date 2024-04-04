@@ -1,0 +1,15 @@
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\obj\Debug\net8.0\CompteBancaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\obj\Debug\net8.0\CompteBancaire.AssemblyInfoInputs.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\obj\Debug\net8.0\CompteBancaire.AssemblyInfo.cs
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\obj\Debug\net8.0\CompteBancaire.csproj.CoreCompileInputs.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\obj\Debug\net8.0\CompteBancaire.sourcelink.json
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\bin\Debug\net8.0\CompteBancaire.exe
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\bin\Debug\net8.0\CompteBancaire.deps.json
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\bin\Debug\net8.0\CompteBancaire.runtimeconfig.json
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\bin\Debug\net8.0\CompteBancaire.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\bin\Debug\net8.0\CompteBancaire.pdb
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\obj\Debug\net8.0\CompteBancaire.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\obj\Debug\net8.0\refint\CompteBancaire.dll
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\obj\Debug\net8.0\CompteBancaire.pdb
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\obj\Debug\net8.0\CompteBancaire.genruntimeconfig.cache
+C:\Users\ocean\OneDrive\Desktop\IFC\Dev\CSharp\CompteBancaire\obj\Debug\net8.0\ref\CompteBancaire.dll
